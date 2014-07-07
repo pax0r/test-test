@@ -7,7 +7,7 @@ import static junit.framework.TestCase.assertTrue;
 /**
  * Created by Bartłomiej Biernacki on 07.07.14.
  */
-public class UberTestSuite2 {
+public class UberSecondTestCase {
     @Test
     public void testPassed() {
         assertTrue(true);
